@@ -1,4 +1,4 @@
-﻿"ID de caso","Fecha de diagnóstico","Ciudad de ubicación","Departamento","Atención**","Edad","Sexo","Tipo*","País de procedencia"
+"id","fecha","ciudad","departamento","atencion","edad","sexo","caso","origen"
 "1","06/03/2020","Bogotá","Bogotá","Recuperado","10 a 19","F","Importado","Italia"
 "2","09/03/2020","Buga","Valle del Cauca","Recuperado","30 a 39","M","Importado","España"
 "3","09/03/2020","Medellín","Antioquia","Recuperado","50 a 59","F","Importado","España"
